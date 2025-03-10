@@ -15,7 +15,7 @@ jobs:
         working-directory: projects/cli
 
     name: "Node.js"
-    runs-on: macos-12
+    runs-on: macos-14
 
     strategy:
       matrix:
